@@ -22,7 +22,7 @@ experimental results demonstrated that the EMS-ResNet-DA achieves an overall cla
 outclasses the conventional models.
 
 
-*problem Description*
+# problem Description
 Emphysema, a key component of Chronic Obstructive Pulmonary Disease (COPD), is characterized by the destruction of lung tissue, leading to breathing difficulties. Early and accurate classification of emphysema patterns in lung CT scans is crucial for effective treatment and management. However, manual interpretation of these scans is subjective and time-consuming. This project aims to automate the classification of emphysema using deep learning models, specifically VGG16 and DenseNet121, to provide a consistent and efficient diagnostic tool.
 
 # Major Contributions
